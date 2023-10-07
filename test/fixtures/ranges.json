@@ -1,0 +1,23 @@
+{
+    "name": "RevolvAir.org temps réel",
+    "source": "RevolvAir.org",
+    "url": "https://RevolvAir.org",
+    "ranges": [
+        {
+            "min": 0,
+            "max": 11,
+            "label": "Bon",
+            "color": "009982",
+            "health_effect": "La qualité de lair est considérée comme satisfaisante et la pollution de lair pose peu ou pas de risque.",
+            "note": "Aucune."
+        },
+        {
+            "min": 12,
+            "max": 34,
+            "label": "Acceptable",
+            "color": "ffff55",
+            "health_effect": "La qualité de lair est acceptable; cependant, pour certains polluants, il peut y avoir un problème de santé modéré pour un très petit nombre de personnes qui sont inhabituellement sensibles à la pollution atmosphérique.",
+            "note": "Les enfants et les adultes actifs, ainsi que les personnes souffrant de maladies respiratoires, telles que lasthme, devraient limiter les efforts prolongés à lextérieur."
+        }
+    ]
+}

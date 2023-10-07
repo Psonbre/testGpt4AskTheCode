@@ -1,0 +1,10 @@
+{
+    "token": "eyJ0eXAiOiJKV1QiLCJhbGciOiJSUzI1NiJ9.eyJhdWQiOiIxIiwianRpIjoiYzM5NTlhOGVjODVlMmU1NzY1MjkwOGUxODI2YzM5YWRkM2QwZDY5NmNiYzY5YmIzZDE1Yzc3ODI0ZjFlODRmODFkZWM1YzMwOTA4ZDI0NDIiLCJpYXQiOjE2OTY2MDM2MjAsIm5iZiI6MTY5NjYwMzYyMCwiZXhwIjoxNzI4MjI2MDIwLCJzdWIiOiIxOTIiLCJzY29wZXMiOltdfQ.s76OKRJtNqADzrEmZh2okPn3wviNqojiQ5tDqd7LUc-LzVXvEYmRkEoUuIQpKcHNFnJtezdeIdqkt7pD0H2WSfo5pzdSVkefTvSmgdqKv-4in1MEeZtmPW_vqKG4XVbJb3GJ0PZWnq74wUfGf06QtO5G-5lGRvu7WnA93GUb9AMOHEbiInRXGWkSYZO8h8nk2pTNl52NwrcAsw2lhjeKVCmXCDjLirWu1urQvhmGJueeESXTCpDYzb3kA3QRgwfW9rzVaeRx74sV7SzXDy3X6_JAUhLUURdWfjIiNgJUWzZEv2mrLhAby-I2SFsWCGzVMVv-XhERjuDi9WvqdK480M5M4_BU3HSBIw6RdcE7IcQw76bkyvlEQ5x_SXOO0GDhvesiMGWYIk80HaEqMrBVpvYSLsX2gykuFbq1ai9WkRvWCLJFEknZdtWKUWdolw3qspOazxNg49gc_QHuWAzp1yasV3VqWoWxzdQNUTUV7QWILSeiDh7N7_uy6EWitFFNvssgQ__VehHGzQfP4dL8Z26aBezp2HJjOUfHu8k5PWuDY2C1Vs6g_6bxYyNxg_rh_4r-60U4pddcmlNe4IuSTRDASmvZh455ZC3Cg3nIGIZaRYUqlFXE7HPTtq_iRiARDKRGSYy4w0P9Ag6Pb2l8bZFAzBWUqC-TLkvLsN1jk7I",
+    "id": 192,
+    "role": "user",
+    "username": "string1234",
+    "firstname": null,
+    "lastname": null,
+    "score": 0,
+    "avatar": "https://s3.amazonaws.com/debut-ca/avatar/default_avatar.jpg"
+}
